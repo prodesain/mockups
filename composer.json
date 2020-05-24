@@ -1,0 +1,15 @@
+{
+    "require": {
+        "mikecao/flight": "^1.3",
+        "duncan3dc/blade": "^4.3",
+        "buchin/google-suggest": "dev-master",
+        "buchin/google-image-grabber": "dev-master",
+        "buchin/badwords": "dev-master",
+        "buchin/bing": "dev-master",
+        "buchin/termapi-client": "dev-master",
+        "buchin/searchterm": "dev-master",
+        "rappasoft/laravel-helpers": "^1.0"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
